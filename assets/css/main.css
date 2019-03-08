@@ -4772,6 +4772,15 @@
 					position: relative;
 				}
 
+		.spotlight.style1 ul {
+			list-style: none;
+		}
+
+			.spotlight.style1 ul li {
+				padding-left: 0;
+				margin-bottom: 1em;
+			}
+
 	}
 
 		.spotlight.style1.orient-right {
